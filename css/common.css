@@ -86,7 +86,7 @@ max-width: 320px;
 padding: 96px 0;
 }
 
-.visually-hidden {
+.sr-only {
 position: absolute;
 
   width: 1px;
