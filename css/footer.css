@@ -205,7 +205,8 @@ padding: 100px 0;
 }
 
 .footer-container {
-flex-wrap: nowrap;
+  max-width: 1158px;
+  flex-wrap: nowrap;
 
     gap: 0;
 }
